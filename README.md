@@ -43,7 +43,7 @@ Applies a Caesar cipher to a string with a specified shift value.
 ## Usage
 
 ```javascript
-const stringManipulation = require('./stringManipulation');
+const stringManipulation = require('string-manuplation-kit');
 
 const reversed = stringManipulation.reverseString('hello');
 const capitalized = stringManipulation.capitalizeFirstLetter('world');
