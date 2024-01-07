@@ -1,0 +1,19 @@
+{
+  "name": "string-manuplation-kit",
+  "version": "1.0.0",
+  "description": "A pkg for string manuplation",
+  "main": "stringManuplationKit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EmreDay1/string-manuplation-kit.git"
+  },
+  "author": "EmreDay1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EmreDay1/string-manuplation-kit/issues"
+  },
+  "homepage": "https://github.com/EmreDay1/string-manuplation-kit#readme"
+}
